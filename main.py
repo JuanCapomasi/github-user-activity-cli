@@ -1,5 +1,5 @@
 import re
-from request import request_activity
+from activity_tracker import request_activity
 
 
 def validate_username(username):
