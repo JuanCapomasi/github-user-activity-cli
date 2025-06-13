@@ -50,3 +50,5 @@ torvalds opened a pull request in torvalds/linux.
 - Uses the unauthenticated GitHub API (limit: 60 requests/hour)
 - Response is printed to the terminal in a readable format
 - Events are displayed in the order GitHub returns them (most recent first)
+
+https://roadmap.sh/projects/github-user-activity
